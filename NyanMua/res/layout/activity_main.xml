@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myLinearLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff"
+    android:padding="4dip" >
+
+    <RelativeLayout
+        android:id="@+id/btnarea"
+        android:layout_width="fill_parent"
+        android:layout_height="370dp"
+        android:layout_centerVertical="true"
+        android:background="#fff" >
+
+        <ImageButton
+            android:id="@+id/btnPia"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_toLeftOf="@+id/btnCeng"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/pia" />
+
+        <ImageButton
+            android:id="@+id/btnCeng"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_centerHorizontal="true"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ceng" />
+
+        <ImageButton
+            android:id="@+id/btnMaimeng"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_toRightOf="@+id/btnCeng"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/maimeng" />
+
+        <ImageButton
+            android:id="@+id/btnQin"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnPia"
+            android:layout_toLeftOf="@+id/btnMusic"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/qinqin" />
+
+        <ImageButton
+            android:id="@+id/btnMusic"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnCeng"
+            android:layout_centerHorizontal="true"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/play" />
+
+        <ImageButton
+            android:id="@+id/btnBao"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnMaimeng"
+            android:layout_toRightOf="@+id/btnMusic"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/baobao" />
+
+        <ImageButton
+            android:id="@+id/btnChi"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnQin"
+            android:layout_toLeftOf="@+id/btnZixi"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/chifan" />
+
+        <ImageButton
+            android:id="@+id/btnZixi"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnMusic"
+            android:layout_centerHorizontal="true"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/zixi" />
+
+        <ImageButton
+            android:id="@+id/btnJiayou"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnBao"
+            android:layout_toRightOf="@+id/btnZixi"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/wudi" />
+
+        <ImageButton
+            android:id="@+id/btnAnquan"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnChi"
+            android:layout_toLeftOf="@+id/btnShuijiao"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/anquan" />
+
+        <ImageButton
+            android:id="@+id/btnShuijiao"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnZixi"
+            android:layout_centerHorizontal="true"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/shuijiao" />
+
+        <ImageButton
+            android:id="@+id/btnBaozou"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/btnJiayou"
+            android:layout_toRightOf="@+id/btnShuijiao"
+            android:background="#fff"
+            android:contentDescription="@string/imgbtn"
+            android:paddingTop="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/shunfeng" />
+    </RelativeLayout>
+
+</RelativeLayout>

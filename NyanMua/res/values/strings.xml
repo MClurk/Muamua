@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">nyanmua</string>
+    <string name="btn">btn</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnmusic">小按钮</string>
+    <string name="imgbtn">小按钮</string>
+    <string name="imgView">小按钮</string>
+    <string name="musicctrl">音乐开关</string>
+    <string name="warn">情nyan节~爱宝贝的情nyan节~</string>
+    <string name="zhurenbtn">主人</string>
+    <string name="nyanbtn">nyan</string>
+    <string name="smsedit">想说神马nyan！</string>
+    <string name="smssend">那就发送了nyan</string>
+    <string name="console">这里是状态栏喵！</string>
+    <string name="baobeiwudi">宝贝无敌</string>
+
+    <!-- 上面是主人版的 -->
+    <string name="smsPia">Pia \n来自nyan客户端  ||Pia你黑脸！！！反正也看不出来  \n来自nyan客户端  ||小nyannyan，来伸脸让主人Pia一下  \n来自nyan客户端 ||PiaPiaPiaPiaPia五连击！来nyan来nyan来还手nyan！ \n来自nyan客户端||拔一根nyan毛 \n来自nyan客户端</string>
+    <string name="shorttoastPia">Pia≧▽≦</string>
+    <string name="toastPia">Pia了一下nyan</string>
+    <string name="smsCeng">蹭左脸之后蹭右脸nyan，死命蹭蹭>Д&lt;哎蹭掉毛了 \n来自nyan客户端 || 高速蹭蹭！狂蹭！！！>Д&lt;nnnnyyyaaaaaaaaan  \n来自nyan客户端 || 旋风蹭蹭！换挡，龙卷风蹭蹭！换挡，飓风蹭蹭！一床毛还不快去收拾！ \n来自nyan客户端||治愈蹭蹭，边蹭边亲亲nyan \n来自nyan客户端 </string>
+    <string name="shorttoastCeng">蹭蹭≧▽≦</string>
+    <string name="toastCeng">蹭蹭nyan</string>
+    <string name="smsMaimeng">生是主人的nyan，死是主人的nyan肉卷！  \n来自nyan客户端 || nyaaaaaaaaan主人要捏肉垫了不要反抗nyan \n来自nyan客户端 || 哼哼！就等你伸爪子，这下跑不掉了吧！  \n来自nyan客户端  || 小乖nyan，来捏肉垫，叫破了喉咙也不会有人来救你的nyan \n来自nyan客户端 || 小nyannyan快来跪舔  \n来自nyan客户端||卖个萌nyaaaaaaaaaan不萌也要钱nyaaaaaaaaaanヾ(≧へ≦)〃\n来自nyan客户端</string>
+    <string name="shorttoastMaimeng">卖萌≧▽≦</string>
+    <string name="toastMaimeng">卖了个萌nyan</string>
+    <string name="smsQin">扑倒按住舔舔nyan \n来自nyan客户端 || 助跑！扑！倒！按住亲亲，muuuuuuuuuua \n来自nyan客户端  || 亲亲挠挠，哎呀！！！ \n来自nyan客户端  || 咬咬nyaaaaaaaaaaaaan  \n来自nyan客户端||舔舔，舔一脸口水\n来自nyan客户端 </string>
+    <string name="shorttoastQin">亲亲≧▽≦</string>
+    <string name="toastQin">亲了个亲nyan</string>
+    <string name="smsBao">抱抱黑nyaaaaaaaaaan \n来自nyan客户端 || 小nyannyan，来伸爪子让主人抱抱nyan  \n来自nyan客户端 || 快到主人怀里来nyaaaaaaaaaan不许反抗 \n来自nyan客户端  || 抱住QAQ一团毛绒肉球nyan  \n来自nyan客户端||伸爪从后面抱住nyan\n来自nyan客户端</string>
+    <string name="shorttoastBao">抱抱≧▽≦</string>
+    <string name="toastBao">抱抱nyan</string>
+    <string name="smsChi">主人吃饭中，nyan也要好好吃nyan \n来自nyan客户端 || nyan怎么可能吃的比主人好！快来投喂主人！  \n来自nyan客户端 ||主人吃饭去了nyan，nyan吃饭要注意荤素搭配，兰州料理少吃，少喝酒\n来自nyan客户端</string>
+    <string name="shorttoastChi">吃饭≧▽≦</string>
+    <string name="toastChi">吃好nyan</string>
+    <string name="smsZixi">主人在自习nyan！nyan为主人的智商祈祷吧>ω&lt; \n来自nyan客户端 || 主人要去学习了nyan，咬一下肉垫就走，嗷呜！  \n来自nyan客户端 </string>
+    <string name="shorttoastZixi">学习≧▽≦</string>
+    <string name="toastZixi">好好学习nyan</string>
+    <string name="smsJiayou">nyan的无敌模式开启，变身nyaaaaaaaaaaan \n来自nyan客户端 || 爆裂吧，现实！  \n来自nyan客户端 </string>
+    <string name="shorttoastJiayou">无敌≧▽≦</string>
+    <string name="toastJiayou">俺家无敌nyan</string>
+    <string name="smsAnquan">傻nyan路上注意安全，安全第一nyan！  \n来自nyan客户端||进击的傻nyan小心屁屁！路上小心！\n来自nyan客户端 </string>
+    <string name="shorttoastAnquan">注意安全≧▽≦</string>
+    <string name="toastAnquan">宝贝主人也要注意安全nyan！</string>
+    <string name="smsShuijiao">一脚踹出被窝！主人要睡了，还敢赖着不走！  \n来自nyan客户端||要睡了nyan，抱住睡nyan\n来自nyan客户端 </string>
+    <string name="shorttoastShuijiao">睡觉≧▽≦</string>
+    <string name="toastShuijiao">晚安nyan</string>
+    <string name="smsBaozou">傻nyan！气死主人了！开门，叫顺丰！！！  \n来自nyan客户端||换只nyan！换只nyan！！！\n来自nyan客户端||不要这只nyan了哼\n来自nyan客户端||主人掉的是这只黑nyan这只傻nyan还是这只又笨又傻的nyan！\n来自nyan客户端 </string>
+    <string name="shorttoastBaozou">叫顺丰≧▽≦</string>
+    <string name="toastBaozou">蹭蹭QAQ，宝贝别生气nyan</string>
+
+    <!-- 下面是nyan版的 -->
+
+    <string name="nsmsPia">小nyannyan伸脸让主人Pia一下  \n来自nyan客户端 || 宝贝要Pia那就给Pia好了，伸脸QAQ \n来自nyan客户端</string>
+    <string name="nsmsCeng">蹭左脸之后蹭右脸nyan，死命蹭蹭>Д&lt;哎蹭掉毛了 \n来自nyan客户端 || 高速蹭蹭！狂蹭！！！>Д&lt;nnnnyyyaaaaaaaaan  \n来自nyan客户端 || 旋风蹭蹭！换挡，龙卷风蹭蹭！换挡，飓风蹭蹭！一床毛这就去收拾！ \n来自nyan客户端||治愈蹭蹭，边蹭边亲亲nyan \n来自nyan客户端 </string>
+    <string name="nsmsMaimeng">nyaaaaaaaaan卖个萌nyaaaaaaaaaanヾ(≧へ≦)〃\n来自nyan客户端 || 宝贝要的二斤萌送来了nyan  \n来自nyan客户端</string>
+    <string name="nsmsQin">扑倒按住舔舔nyan \n来自nyan客户端 || 助跑！扑！倒！按住亲亲，muuuuuuuuuua \n来自nyan客户端  || 亲亲挠挠，哎呀！！！ \n来自nyan客户端  || 咬咬nyaaaaaaaaaaaaan  \n来自nyan客户端||舔舔，舔一脸口水\n来自nyan客户端 </string>
+    <string name="nsmsBao">抱抱宝贝nyaaaaaaaaaan \n来自nyan客户端  || 扑到主人怀里来nyaaaaaaaaaan不许反抗 \n来自nyan客户端</string>
+    <string name="nsmsChi">nyan吃饭中，宝贝也要好好吃nyan \n来自nyan客户端 || 乖乖宝贝，快去吃饭nyan \n来自nyan客户端 </string>
+    <string name="nsmsZixi">宝贝主人学习要加油nyan，伸爪给咬一下肉垫  \n来自nyan客户端 || 宝贝无敌！元气满满nyan！  \n来自nyan客户端  || 无敌宝贝变身nyan！  \n来自nyan客户端 </string>
+    <string name="nsmsJiayou">宝贝加油！变身无敌nyan！  \n来自nyan客户端 || 爆裂吧，现实！  \n来自nyan客户端 </string>
+    <string name="nsmsAnquan">回窝了nyan，宝贝要注意安全，照顾好自己nyan \n来自nyan客户端 </string>
+    <string name="nsmsShuijiao">哎nyan，有个被窝nyan，钻进去 \n来自nyan客户端  || 被窝好暖和，宝贝快来nyan！ \n来自nyan客户端</string>
+    <string name="nsmsBaozou">喂，是顺丰吗，你们不用来了，纸箱窝自己搬进屋子就好了nyan \n来自nyan客户端 </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_read_sms">ReadSmsActivity</string>
+
+</resources>
